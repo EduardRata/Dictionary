@@ -1,0 +1,11 @@
+html {
+    background-color: black;
+    color: antiquewhite;
+}
+#insertWords {
+padding: 50px;
+}
+#find {
+    padding: 50px;
+    margin-top: 20px;
+}
